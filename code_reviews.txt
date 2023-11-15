@@ -17,9 +17,15 @@ Microsoft also shares this view but extends it to all reviewers
 
 2. Find an example of a "good" code review. Provide a link to the review and explain why you found the review beneficial.
 
+The link to the review: https://codereview.stackexchange.com/questions/287927/rock-paper-scissors-game
+
+
+The review of the "Rock Paper Scissors" game code is good because it offers specific, actionable suggestions for improvement. It advises on modularizing the code by separating the pcSelection computation, enhances user experience by suggesting a change in the promptUserInput function to notify users of invalid choices, and recommends renaming the gameRules map for clarity. These suggestions aim at improving code quality, user interaction, and readability, making the feedback constructive and beneficial for development.
 
 
 3. Find an example of a "bad" code review. Provide a link to the review and briefly explain why you found the review not beneficial. In addition, include recommendations for improvement to the review feedback.
+
+
 
 
 Add your responses to a file named code_reviews.txt and upload it to the main branch of your workshop repository.
